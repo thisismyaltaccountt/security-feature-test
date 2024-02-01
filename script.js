@@ -1,5 +1,9 @@
-enabled = false;
+/*
+enabled = true;
 
 if (enabled === false) {
-    window.location.replace("http://google.com");
+    window.location = "http://google.com";
 }
+*/
+
+alert("hi");
