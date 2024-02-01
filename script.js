@@ -1,9 +1,5 @@
-/*
-enabled = true;
+notpirated = "true";
 
-if (enabled === false) {
-    window.location = "http://google.com";
+if (notpirated === "false") {
+    window.location.replace("http://google.com");
 }
-*/
-
-alert("hi");
